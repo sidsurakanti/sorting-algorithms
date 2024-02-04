@@ -1,8 +1,8 @@
 # Sorting Algorithms
-1. Quicksort
-2. Bubblesort
-3. TODO Mergesort
+- [x] Quicksort
+- [x] Bubblesort
+- [ ] Mergesort
 
-## Requirements: 
+## Requirements
 - Python 3.6+
  
